@@ -1,4 +1,4 @@
-package com.example.SecurityAmigosCode1.user;
+package com.example.AuthorizationBearerToken.user;
 
 import jakarta.persistence.*;
 import lombok.AllArgsConstructor;

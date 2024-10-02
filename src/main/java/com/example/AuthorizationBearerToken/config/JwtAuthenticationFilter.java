@@ -1,6 +1,6 @@
-package com.example.SecurityAmigosCode1.config;
+package com.example.AuthorizationBearerToken.config;
 
-import com.example.SecurityAmigosCode1.service.JwtService;
+import com.example.AuthorizationBearerToken.service.JwtService;
 import jakarta.servlet.FilterChain;
 import jakarta.servlet.ServletException;
 import jakarta.servlet.http.HttpServletRequest;

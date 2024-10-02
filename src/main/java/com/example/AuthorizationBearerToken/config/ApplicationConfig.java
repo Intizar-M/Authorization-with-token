@@ -1,6 +1,6 @@
-package com.example.SecurityAmigosCode1.config;
+package com.example.AuthorizationBearerToken.config;
 
-import com.example.SecurityAmigosCode1.repository.UserRepository;
+import com.example.AuthorizationBearerToken.repository.UserRepository;
 import lombok.RequiredArgsConstructor;
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;

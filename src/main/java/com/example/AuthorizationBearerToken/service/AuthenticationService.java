@@ -1,11 +1,11 @@
-package com.example.SecurityAmigosCode1.service;
+package com.example.AuthorizationBearerToken.service;
 
-import com.example.SecurityAmigosCode1.auth.AuthenticationRequest;
-import com.example.SecurityAmigosCode1.auth.AuthenticationResponse;
-import com.example.SecurityAmigosCode1.auth.RegisterRequest;
-import com.example.SecurityAmigosCode1.repository.UserRepository;
-import com.example.SecurityAmigosCode1.user.Role;
-import com.example.SecurityAmigosCode1.user.User;
+import com.example.AuthorizationBearerToken.auth.AuthenticationRequest;
+import com.example.AuthorizationBearerToken.auth.AuthenticationResponse;
+import com.example.AuthorizationBearerToken.auth.RegisterRequest;
+import com.example.AuthorizationBearerToken.repository.UserRepository;
+import com.example.AuthorizationBearerToken.user.Role;
+import com.example.AuthorizationBearerToken.user.User;
 import lombok.RequiredArgsConstructor;
 import org.springframework.security.authentication.AuthenticationManager;
 import org.springframework.security.authentication.UsernamePasswordAuthenticationToken;

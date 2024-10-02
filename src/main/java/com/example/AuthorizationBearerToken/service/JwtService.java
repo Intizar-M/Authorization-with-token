@@ -1,4 +1,4 @@
-package com.example.SecurityAmigosCode1.service;
+package com.example.AuthorizationBearerToken.service;
 
 import io.jsonwebtoken.Claims;
 import io.jsonwebtoken.Jwts;

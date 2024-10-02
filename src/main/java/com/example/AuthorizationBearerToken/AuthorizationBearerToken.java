@@ -1,13 +1,13 @@
-package com.example.SecurityAmigosCode1;
+package com.example.AuthorizationBearerToken;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class SecurityAmigosCode1Application {
+public class AuthorizationBearerToken {
 
 	public static void main(String[] args) {
-		SpringApplication.run(SecurityAmigosCode1Application.class, args);
+		SpringApplication.run(AuthorizationBearerToken.class, args);
 	}
 
 }

@@ -1,9 +1,9 @@
-package com.example.SecurityAmigosCode1.controller;
+package com.example.AuthorizationBearerToken.controller;
 
-import com.example.SecurityAmigosCode1.auth.AuthenticationRequest;
-import com.example.SecurityAmigosCode1.auth.AuthenticationResponse;
-import com.example.SecurityAmigosCode1.auth.RegisterRequest;
-import com.example.SecurityAmigosCode1.service.AuthenticationService;
+import com.example.AuthorizationBearerToken.auth.AuthenticationRequest;
+import com.example.AuthorizationBearerToken.auth.AuthenticationResponse;
+import com.example.AuthorizationBearerToken.auth.RegisterRequest;
+import com.example.AuthorizationBearerToken.service.AuthenticationService;
 import lombok.RequiredArgsConstructor;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.PostMapping;

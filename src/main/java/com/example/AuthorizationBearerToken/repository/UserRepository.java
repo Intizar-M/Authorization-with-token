@@ -1,6 +1,6 @@
-package com.example.SecurityAmigosCode1.repository;
+package com.example.AuthorizationBearerToken.repository;
 
-import com.example.SecurityAmigosCode1.user.User;
+import com.example.AuthorizationBearerToken.user.User;
 import org.springframework.data.jpa.repository.JpaRepository;
 
 import java.util.Optional;
